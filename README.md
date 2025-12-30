@@ -1,24 +1,53 @@
-# README
+# Sessy
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Open-source email observability for AWS SES by [Marc Köhlbrugge](https://x.com/marckohlbrugge).
 
-Things you may want to cover:
+> **Note:** Sessy is still in active development and not quite ready for production use. Feel free to have a look around and follow along as I build it.
 
-* Ruby version
+## What is Sessy?
 
-* System dependencies
+Amazon SES is a fantastic email service: cost-effective, reliable, and great deliverability. But it's frustratingly difficult to see what's actually happening with your emails.
 
-* Configuration
+That's why many people turn to overpriced email services that are often just glorified SES wrappers with a nice UI. You end up paying a lot for something you could do yourself.
 
-* Database creation
+Sessy is the open-source alternative. Use raw SES and still get a beautiful interface to see what happens after you hit send: deliveries, bounces, complaints, opens, clicks, and more.
 
-* Database initialization
 
-* How to run the test suite
+## Running your own Sessy instance
 
-* Services (job queues, cache servers, search engines, etc.)
+We'll provide more documentation on self-hosting soon. That said, Sessy is a fairly standard Rails application, so if you're familiar with Rails, you should be able to figure it out.
 
-* Deployment instructions
+We're also considering offering a paid hosted version in the future.
 
-* ...
+
+## Development
+
+You are welcome to modify Sessy to your liking.
+
+To get started:
+
+```bash
+bin/setup
+bin/dev
+```
+
+
+## Contributing
+
+We welcome contributions! Since we're still in a very early stage, please keep the following in mind:
+
+- **Typos and obvious bugs:** Feel free to submit a PR directly.
+- **Code changes:** Please try to match our existing style.
+- **New features:** Please open an issue first to discuss before implementing.
+
+For anything beyond small fixes, please open an issue first so no one wastes their time on something we might not merge.
+
+
+## License
+
+Sessy is released under the [O'Saasy License](LICENSE.md).
+
+
+## Inspiration
+
+Sessy was heavily inspired by [Fizzy](https://github.com/basecamp/fizzy) and we're grateful to [37signals](https://37signals.com) for open-sourcing their codebase.
